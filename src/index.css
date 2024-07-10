@@ -1,0 +1,10 @@
+/*
+Author: Alisa Ho (hckalisa@gmail.com)
+index.css (c) 2024
+Desc: global css
+Created:  2024-07-08T02:40:55.178Z
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
