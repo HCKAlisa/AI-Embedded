@@ -11,7 +11,7 @@ import "@tensorflow/tfjs-backend-webgl";
 import * as cocossd from "@tensorflow-models/coco-ssd";
 import styled from "styled-components";
 
-const ObjectDetection = () => {
+const ObjectDetection: React.FC = () => {
     const [isModelLoading, setIsModelLoading] = useState<boolean>(false);
     const [model, setModel] = useState<cocossd.ObjectDetection | null>(null);
     const [imgData, setImgData] = useState<{} | null>(null);
