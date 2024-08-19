@@ -1,3 +1,4 @@
+** This git repo consist of both Assignment 1 and Assignment 2 **
 # AI Embedded
 
 This is a simple implementation of AI that can perform image classification and object detection. It uses React, Typescript and NodeJS for the website, TensorFlow.js for machine learning tasks.
